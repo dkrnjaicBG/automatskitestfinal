@@ -1,5 +1,6 @@
 # automatskitestfinal
 
+Tests were made in Cypress
 
 # How to run tests
 Step 1 - Install node on your computer.
